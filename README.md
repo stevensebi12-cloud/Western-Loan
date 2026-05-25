@@ -1,1 +1,1 @@
-# Western-Loan
+export default function WesternLoan() {# Western-Loan
